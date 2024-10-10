@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Varsha Hindupur | Portfolio',
-  description: 'Varsha is a Software Tester, Full Stack Software Developer, and Data Engineer enthusiast, with 5+ years industry experience.',
+  description: 'Varsha is a versatile technology professional with over 5 years of industry experience, specializing in Software Testing, Full Stack Development, and Data Engineering.',
 }
 
 export default function RootLayout({
